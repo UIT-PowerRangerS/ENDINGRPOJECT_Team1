@@ -93,6 +93,16 @@ namespace DoAnCuoiKy.Properties {
         /// <summary>
         ///   Looks up a localized resource of type System.Drawing.Bitmap.
         /// </summary>
+        internal static System.Drawing.Bitmap audio_add_321 {
+            get {
+                object obj = ResourceManager.GetObject("audio-add-321", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
         internal static System.Drawing.Bitmap classroom_2_32 {
             get {
                 object obj = ResourceManager.GetObject("classroom-2-32", resourceCulture);

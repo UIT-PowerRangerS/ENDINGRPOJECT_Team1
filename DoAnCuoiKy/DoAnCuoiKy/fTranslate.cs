@@ -15,7 +15,7 @@ using System.Net;
 using RavSoft.GoogleTranslator;
 using System.Runtime.InteropServices;
 using NHMTTSENGLib;
-
+using SpeechLib;
 namespace DoAnCuoiKy
 {
     public partial class fTranslate : Form
@@ -35,12 +35,16 @@ namespace DoAnCuoiKy
             {
                 label1.Text = "Tiếng Việt";
                 label2.Text = "Tiếng Anh";
+                button6.Visible = true;
+                button5.Visible = false;
 
             }
             else
             {
                 label2.Text = "Tiếng Việt";
                 label1.Text = "Tiếng Anh";
+                button6.Visible = false;
+                button5.Visible = true;
 
             }
             String temp = _editSourceText.Text;
@@ -120,6 +124,38 @@ namespace DoAnCuoiKy
 		{
             _editSourceText.Focus();
             System.Diagnostics.Process.Start("osk.exe");
+        }
+        public SpVoice Voice = new SpVoice();
+        private void button5_Click(object sender, EventArgs e)
+		{
+            try
+            {
+                Voice = new SpVoice();
+                Voice.Voice = Voice.GetVoices().Item(Properties.Settings.Default.VoiceType);
+                Voice.Volume = Properties.Settings.Default.Volume;
+                String word = _editSourceText.Text;
+                Voice.Speak(word, SpeechLib.SpeechVoiceSpeakFlags.SVSFDefault);
+            }
+            catch
+            {
+                MessageBox.Show("Speak error", "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
+        }
+
+		private void button6_Click(object sender, EventArgs e)
+		{
+            try
+            {
+                Voice = new SpVoice();
+                Voice.Voice = Voice.GetVoices().Item(Properties.Settings.Default.VoiceType);
+                Voice.Volume = Properties.Settings.Default.Volume;
+                String word = _editTarget.Text;
+                Voice.Speak(word, SpeechLib.SpeechVoiceSpeakFlags.SVSFDefault);
+            }
+            catch
+            {
+                MessageBox.Show("Speak error", "Message", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 	}
 }

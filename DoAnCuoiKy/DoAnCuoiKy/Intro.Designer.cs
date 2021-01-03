@@ -70,7 +70,7 @@
 			this.pn1.Controls.Add(this.btnPLXT);
 			this.pn1.Controls.Add(this.btnClass);
 			this.pn1.Controls.Add(this.btnSchool);
-			this.pn1.Location = new System.Drawing.Point(210, 49);
+			this.pn1.Location = new System.Drawing.Point(194, 41);
 			this.pn1.Margin = new System.Windows.Forms.Padding(4, 5, 4, 5);
 			this.pn1.Name = "pn1";
 			this.pn1.Size = new System.Drawing.Size(762, 604);
