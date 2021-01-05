@@ -303,6 +303,12 @@ namespace DoAnCuoiKy
             this.Close();
 		}
 
+		private void pictureBox1_Click(object sender, EventArgs e)
+		{
+            fAdd f = new fAdd();
+            f.ShowDialog();
+		}
+
 		private void richTextBox1_TextChanged(object sender, EventArgs e)
         {
             button1.Visible = richTextBox1.Text != "";
@@ -313,7 +319,7 @@ namespace DoAnCuoiKy
             }
             else
             {
-                button1.Left = this.Width - 65; ;
+                button1.Left = this.Width - 65 ;
 
             }
         }

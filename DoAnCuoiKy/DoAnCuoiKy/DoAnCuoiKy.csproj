@@ -72,6 +72,12 @@
     <Compile Include="fAbout.Designer.cs">
       <DependentUpon>fAbout.cs</DependentUpon>
     </Compile>
+    <Compile Include="fAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="fAdd.Designer.cs">
+      <DependentUpon>fAdd.cs</DependentUpon>
+    </Compile>
     <Compile Include="fHKP.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -119,6 +125,9 @@
     <Compile Include="Translator.cs" />
     <EmbeddedResource Include="fAbout.resx">
       <DependentUpon>fAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="fAdd.resx">
+      <DependentUpon>fAdd.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="fHKP.resx">
       <DependentUpon>fHKP.cs</DependentUpon>
@@ -337,6 +346,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="Resources\audio-add-321.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\new-badge-2-32.ico" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

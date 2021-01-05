@@ -118,23 +118,14 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
-  <data name="user-8-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user-8-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="close-window-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close-window-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="github-9-643" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\github-9-643.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="x-mark-3-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\x-mark-3-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="github-9-642" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\github-9-642.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="facebook-3-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\facebook-3-641.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="search-3-16" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\search-3-16.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -163,17 +154,14 @@
   <data name="user-8-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user-8-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="user-7-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\user-7-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
-  <data name="literature-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\literature-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
-  </data>
   <data name="user-7-322" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user-7-323.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="facebook-3-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\facebook-3-64.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="instagram-5-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\instagram-5-64.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="x-mark-3-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\x-mark-3-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -187,20 +175,26 @@
   <data name="x-mark-3-323" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\x-mark-3-323.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="search-3-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search-3-161.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="close-window-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close-window-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="x-mark-3-322" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\x-mark-3-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="google-translate-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\google-translate-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="about-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\about-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="instagram-5-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\instagram-5-64.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="facebook-3-641" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\facebook-3-641.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="search-3-162" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\search-3-162.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="literature-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\literature-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="close-window-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\close-window-161.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -217,23 +211,29 @@
   <data name="school-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\school-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="project-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\project-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
   <data name="rotate-clockwise-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\rotate-clockwise-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="instagram-5-642" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\instagram-5-642.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="project-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\project-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="user-8-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user-8-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="audio-add-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\audio-add-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="github-9-64" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\github-9-64.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="google-translate-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\google-translate-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="user-7-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\user-7-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="search-3-161" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\search-3-161.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="github-9-643" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\github-9-643.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
   <data name="user-7-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\user-7-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
@@ -244,7 +244,10 @@
   <data name="keyboard-322" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\keyboard-322.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
-  <data name="audio-add-321" type="System.Resources.ResXFileRef, System.Windows.Forms">
-    <value>..\Resources\audio-add-321.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  <data name="search-3-162" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\search-3-162.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="new-badge-2-32" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\new-badge-2-32.ico;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
 </root>

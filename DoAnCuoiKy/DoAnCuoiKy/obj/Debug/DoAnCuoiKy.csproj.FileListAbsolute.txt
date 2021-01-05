@@ -64,3 +64,4 @@ C:\HKP\CODE\C#\VS\ENDINGRPOJECT_Team1\ENDINGRPOJECT_Team1\DoAnCuoiKy\DoAnCuoiKy\
 C:\HKP\CODE\C#\VS\ENDINGRPOJECT_Team1\ENDINGRPOJECT_Team1\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.csproj.CoreCompileInputs.cache
 C:\HKP\CODE\C#\VS\ENDINGRPOJECT_Team1\ENDINGRPOJECT_Team1\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.exe
 C:\HKP\CODE\C#\VS\ENDINGRPOJECT_Team1\ENDINGRPOJECT_Team1\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.pdb
+C:\HKP\CODE\C#\VS\ENDINGRPOJECT_Team1\ENDINGRPOJECT_Team1\DoAnCuoiKy\DoAnCuoiKy\obj\Debug\DoAnCuoiKy.fAdd.resources
